@@ -22,6 +22,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 ### Referência da Análise
 
 - REQ 1: Exibir Splash Screen
+
 ![Ref RE1](img/re1.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -33,6 +34,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 5 | A splash deve ser exibida no primeiro acesso | 
 
 - REQ 2: Header do Podcast
+
 ![Ref RE2](img/req2.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -41,6 +43,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 2   | Ter o icone de perfil no header |
 
 - REQ 3: Criação  do top 10 podcasts
+
 ![Ref RE3](img/req3.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -49,6 +52,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 2   | Mostrar o nome e foto do podcast |
 
 - REQ 4: Criação da categorias dos podcasts
+
 ![Ref RE4](img/req4.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -60,6 +64,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 5   | Na parte da categoria, deve ter um botão de "See all" para exibir TODAS as categorias. | 
 
 - REQ 5: Exibir os podcasts recomendados
+
 ![Ref RE5](img/req5.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -70,6 +75,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 4   | Deve ter botão de "See all" |
 
 - REQ 6: Tela inicial sobre o podcast selecionado
+
 ![Ref RE6](img/req6.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -85,6 +91,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 9 | O botão de See More deve ter uma cor diferente. |
 
 - REQ 7: Tela de episódios do podcast selecionado
+
 ![Ref RE7](img/req7.png)
 
 | Número da Regra de Negócio | Descrição |
@@ -105,6 +112,7 @@ A imagem abaixo indiará como foi feita a análise deste projeto, onde foi utili
 | 14 | O botton menu deve ter o bottom colorido porque está na tela do podcast | 
 
 - REQ 8: Tela do episódio selecionado
+
 ![Ref RE8](img/req8.png)
 
 | Número da Regra de Negócio | Descrição |
